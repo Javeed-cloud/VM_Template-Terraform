@@ -1,0 +1,19 @@
+webserver-1
+Javeed
+Javeed@123456
+webserver-2
+azureuser
+Azure@123456				Javeed-VN-/Jav-SUB-VN ==> ADDS
+						Javeed-RG		VM--Javeed-ADDS
+						azureadds		-New:: azureadds1
+						Azure@123456	
+
+						Javeed-VN-1/Jav-SB-VN1 ==> webserver-1
+						Javeed-RG-1		VM--Javeed-WebServer-1	
+						azureuser1
+						Azure@123456
+
+						Javeed-VN-2/Jav-SB-VN2 ==> webserver-2
+						Javeed-RG-2		VM--Javeed-WebServer-2	
+						azureuser2-2
+						Azure@123456
